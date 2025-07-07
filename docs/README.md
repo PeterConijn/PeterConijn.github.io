@@ -1,2 +1,4 @@
 # Documentation
-Demo for converting documenation to GitHub pages
+Demo setup for converting documenation to GitHub pages.
+
+Please use the folder structure to navigate.
