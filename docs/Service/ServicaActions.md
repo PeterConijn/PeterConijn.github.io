@@ -2,6 +2,7 @@
 layout: page
 title: "Service Actions"
 permalink: /Service/ServiceActions
+categories: ["Service"]
 ---
 
 # Service Actions
