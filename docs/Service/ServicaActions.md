@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Service Actions"
-permalink: /Service 
+permalink: /Service/ServiceActions
+---
 
 # Service Actions
 Now that we have your equipment set, we need to talk about keeping it set. In other words: service.
