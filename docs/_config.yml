@@ -1,17 +1,18 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+remote_theme: just-the-docs/just-the-docs
+nav_enabled: true
 
 search_enabled: true
 
 title: "Dysel Help"
 Description: "Help and documentation for Dysel BC."
 
-sidebar:
-  - label: Equipment
-    children:
-      - EquipmentStructure
-  - label: Service    
-    children:
-      - ServiceActions
-      - label: Service Actions
-        children:
-          - RecalculateServiceActionsMultiple
+# sidebar:
+#   - label: Equipment
+#     children:
+#       - EquipmentStructure
+#   - label: Service    
+#     children:
+#       - ServiceActions
+#       - label: Service Actions
+#         children:
+#           - RecalculateServiceActionsMultiple
