@@ -9,6 +9,9 @@ sidebar:
   - label: Equipment
     children:
       - EquipmentStructure
-  - label: Service
+  - label: Service    
     children:
-      - ServiceActions
+      - label: Service Actions
+        children:
+          - ServiceActions
+          - RecalculateServiceActionsMultiple
