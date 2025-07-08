@@ -1,5 +1,5 @@
 ---
-title: "Recalculate Service Actions for Multiple Objects"
+title: "Equipment Structure"
 parent: "Equipment"
 ---
 
