@@ -11,7 +11,7 @@ sidebar:
       - EquipmentStructure
   - label: Service    
     children:
+      - ServiceActions
       - label: Service Actions
         children:
-          - ServiceActions
           - RecalculateServiceActionsMultiple
