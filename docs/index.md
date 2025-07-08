@@ -1,5 +1,6 @@
 ---
 Title: "Dysel Help"
+nav_exclude: true
 ---
 
 # Welcome to the Dysel help library
