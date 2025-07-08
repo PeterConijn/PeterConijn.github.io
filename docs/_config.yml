@@ -1,0 +1,7 @@
+sidebar:
+  - Label: "Equipment"
+    children:
+      - EquipmentStructure
+  - Label: "Service"
+    children:
+      - ServiceActions

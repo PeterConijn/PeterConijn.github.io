@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Equipment Structure"
+id: "EquipmentStructure"
 permalink: /Equipment/EquipmentStructure
 categories: ["Equipment"]
 ---
