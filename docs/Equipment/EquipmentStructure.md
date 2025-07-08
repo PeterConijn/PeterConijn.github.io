@@ -1,9 +1,6 @@
 ---
-layout: page
-title: "Equipment Structure"
-id: "EquipmentStructure"
-permalink: /Equipment/EquipmentStructure
-categories: ["Equipment"]
+title: "Recalculate Service Actions for Multiple Objects"
+parent: "Service"
 ---
 
 # The Equipment Structure
