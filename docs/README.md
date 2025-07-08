@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Documentation
 Demo setup for converting documenation to GitHub pages.
 

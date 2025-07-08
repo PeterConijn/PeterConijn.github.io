@@ -1,6 +1,6 @@
 ---
 title: "Recalculate Service Actions for Multiple Objects"
-parent: "Service"
+parent: "Equipment"
 ---
 
 # The Equipment Structure

@@ -1,5 +1,5 @@
 ---
-title: "Recalculate Service Actions for Multiple Objects"
+title: "Recalculate Service Actions for a Single Object"
 parent: "Service"
 ---
 
