@@ -4,9 +4,9 @@ search_enabled: true
 
 
 sidebar:
-  - Label: "Equipment"
+  - Label: Equipment
     children:
       - EquipmentStructure
-  - Label: "Service"
+  - Label: Service
     children:
       - ServiceActions
